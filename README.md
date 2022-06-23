@@ -6,6 +6,7 @@
 - 👀 I’m a pianist and producer. 
 - 👀 Furthermore, I work as an music arranger on my personal projects.
 
+- More about me please visit my profiles [here](https://longkelvin.github.io/)
 <!---
 LongKelvin/LongKelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
