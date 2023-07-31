@@ -1,12 +1,13 @@
-- 👋 Hi, I'm @LongKelvin 
-- 👀 I'm interested in Midi, Audio processing and Programming music. 
-- 👀 I'm also have some experience in Java Android and C#.NET
+👋 Hey there! I'm Kelvin, an experienced C# .NET developer with a focus on Desktop and Web applications.
 
-- 👀 Besides programming, I also love music.
-- 👀 I’m a pianist and producer. 
-- 👀 Furthermore, I work as an music arranger on my personal projects.
+🎹 Beyond coding, I'm passionate about music programming. Java, C# and C++ are programming languages I use for personal hobbies.
 
-- More about me please visit my profiles [here](https://longkelvin.github.io/)
+💻 Check out my Github for projects that blend technology and melodies.
+
+🌐 Let's collaborate and create something extraordinary in the world of tech and music! 🎵
+
+🔍 More about me? Please visit my profiles [here](https://longkelvin.github.io/)
+
 <!---
 LongKelvin/LongKelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
